@@ -1,0 +1,2 @@
+bin/orbitron-test-validator filter=lfs diff=lfs merge=lfs -text
+bin/orbitron-validator filter=lfs diff=lfs merge=lfs -text
